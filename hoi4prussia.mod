@@ -1,4 +1,4 @@
-﻿name="T0Prussia Mod"
+﻿name="0Prussia Mod"
 path="mod/hoi4prussia/"
 tags={
 	"Map"
