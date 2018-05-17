@@ -471,7 +471,7 @@ ISR = {
 	color = rgb { 152  130  191 }
 	color_ui = rgb { 152  130  191 }
 }
-PRU = {
+PIA = {
 	color = rgb { 31 82 118 }
 	color_ui = rgb { 31 82 118 }
 }
